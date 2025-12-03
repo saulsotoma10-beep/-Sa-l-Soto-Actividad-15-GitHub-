@@ -1,5 +1,5 @@
 // FUNDAMENTOS DE PROGRAMACIÃ“N - PRÃCTICA
-// Nombre del estudiante: _________________
+// Nombre del estudiante: ________________
 // Fecha: _________________
 
 // ============================================
@@ -316,3 +316,4 @@ module.exports = {
   obtenerColumna,
   transponer
 };
+
